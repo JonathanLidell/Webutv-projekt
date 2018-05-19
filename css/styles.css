@@ -1,0 +1,46 @@
+ 
+ h1{ color: red;
+text-align: center;
+} 
+
+main{
+                width: 500px;
+                background-color: black;
+    color: white;
+    padding: 10px;
+    opacity: 0.7;
+            }
+          .bild{
+                
+                position: absolute;
+                 float: left;
+                left: 65%;
+                top: 30%;
+}
+body{
+    background-image: url(../bilder/Wowbackground.jpg);
+}
+.text{
+    
+    <p style="color: #ffffff; background-color: #000000">
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
